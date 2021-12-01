@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "salud-trivia-75ccb": {
+      "hosting": {
+        "trivalsano": [
+          "salud-trivia-75ccb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "salud-trivia-75ccb"
+  }
+}
